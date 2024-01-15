@@ -1,4 +1,4 @@
-# Sentiment Analysis of Tweets Using Machine Learning
+# Twitter Sentiment Bias Analysis
 
 ## Project Overview
 This project applies several machine learning models to perform sentiment analysis on tweets. It explores different demographic groups and uses various features to understand how well these models perform across different datasets.
